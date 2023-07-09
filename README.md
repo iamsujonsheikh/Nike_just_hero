@@ -1,2 +1,3 @@
 # Nike_just_hero
-![image]([files/Users/jzhang/Desktop/Isolated.png](https://i.ibb.co/DMPVhXk/Product-Page.png)https://i.ibb.co/DMPVhXk/Product-Page.png)
+![Alt Text]([image_url](https://i.ibb.co/DMPVhXk/Product-Page.png)https://i.ibb.co/DMPVhXk/Product-Page.png)
+
