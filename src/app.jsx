@@ -1,10 +1,13 @@
 import './app.css'
+import Hero from './components/Hero'
+import Navigation from './components/Navigation'
 
 export function App() {
 
   return (
     <>
-      <h1>Hello </h1>
+      <Navigation />
+      <Hero />
     </>
   )
 }
